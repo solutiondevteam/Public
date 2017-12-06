@@ -6,7 +6,7 @@ Class Aviation.Classification.Utils
 /// create a simple classifier on the Aviation Events demo.
 /// Hotfix1
 /// Hotfix2
-/// Hotfix3
+/// Hotfix3.1
 ClassMethod CreateClassifier() As %Status
 {
 	set tSC = $$$OK
