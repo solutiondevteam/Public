@@ -4,8 +4,8 @@ Class Aviation.Classification.Utils
 
 /// Demonstration method using the <method>%iKnow.Classification.Builder</method> API to
 /// create a simple classifier on the Aviation Events demo.
-// made changes Aviation.Classification.Utils in dev branch
-// made changes in Aviation.Classification.Utils in dev branch
+// 1. made changes Aviation.Classification.Utils in dev branch
+// 2. made changes in Aviation.Classification.Utils in dev branch
 ClassMethod CreateClassifier() As %Status
 {
 	set tSC = $$$OK
