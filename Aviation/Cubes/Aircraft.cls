@@ -3,7 +3,7 @@ Class Aviation.Cubes.Aircraft Extends %DeepSee.CubeDefinition [ DependsOn = (Avi
 {
 
 Parameter DOMAIN;
-
+/// Check in 1.0
 /// Cube definition from Architect.
 XData Cube [ XMLNamespace = "http://www.intersystems.com/deepsee" ]
 {
