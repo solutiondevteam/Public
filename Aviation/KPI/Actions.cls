@@ -3,6 +3,7 @@
 Class Aviation.KPI.Actions Extends %DeepSee.KPI
 {
 
+/// Check in 1.0
 /// This XData definition defines the KPI.
 XData KPI [ XMLNamespace = "http://www.intersystems.com/deepsee/kpi" ]
 {
