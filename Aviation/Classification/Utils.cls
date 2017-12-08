@@ -9,7 +9,7 @@ Class Aviation.Classification.Utils
 /// Hotfix3.1.2
 /// Hotfix3.3
 /// Hotfix3.4,3.5
-/// Hotfix5
+/// Hotfix5, 5.1
 ClassMethod CreateClassifier() As %Status
 {
 	set tSC = $$$OK
