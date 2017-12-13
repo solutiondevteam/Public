@@ -6,6 +6,7 @@ Class Aviation.Classification.Utils
 /// create a simple classifier on the Aviation Events demo.
 // 1. made changes Aviation.Classification.Utils in dev branch
 // 2. made changes in Aviation.Classification.Utils in dev branch
+// commit from different workspace
 ClassMethod CreateClassifier() As %Status
 {
 	set tSC = $$$OK
