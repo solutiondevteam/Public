@@ -5,6 +5,7 @@ Class Aviation.Cubes.Aircraft Extends %DeepSee.CubeDefinition [ DependsOn = (Avi
 Parameter DOMAIN;
 
 /// Cube definition from Architect.
+// Dont move
 XData Cube [ XMLNamespace = "http://www.intersystems.com/deepsee" ]
 {
 <cube xmlns="http://www.intersystems.com/deepsee" name="AviationAircraft" displayName="Aviation Aircraft" disabled="false" abstract="false" sourceClass="Aviation.Aircraft" countMeasureName="%COUNT" bucketSize="8" bitmapChunkInMemory="false" precompute="0">
